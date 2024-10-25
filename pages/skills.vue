@@ -36,30 +36,30 @@ export default {
       systems: [
         {
           title: 'C#',
-          level: '776+',
+          level: '1822+',
           avatarColor: 'purple darken-1',
           cardColor: 'purple darken-3',
           bar: 100,
           avatarLetter: 'C#',
-          description: 'Winforms e APIS, certificação 70-483'
+          description: '.NetCore, APIS, Winforms, certificação 70-483'
+        },
+        {
+          title: 'VueJs',
+          level: '1752+',
+          cardColor: 'teal lighten-1',
+          avatarColor: 'teal darken-4',
+          barColor: 'white',
+          bar: 100,
+          description: 'Desenvolvimento Frontend com NuxtJS 2 e NuxtJs 3'
         },
         {
           title: 'VB.NET',
           level: '238+',
           avatarColor: 'purple darken-1',
           cardColor: 'purple darken-3',
-          bar: 100,
+          bar: 50,
           avatarLetter: 'VB',
           description: 'Winforms'
-        },
-        {
-          title: 'VueJs',
-          level: '820+',
-          cardColor: 'teal lighten-1',
-          avatarColor: 'teal darken-4',
-          barColor: 'white',
-          bar: 100,
-          description: 'Desenvolvimento Frontend com Vuetify e NUXTJS'
         },
         {
           title: 'MS SQL',

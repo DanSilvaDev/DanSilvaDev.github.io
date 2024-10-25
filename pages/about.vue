@@ -130,9 +130,21 @@ export default {
         'Atualmente, meus pontos mais fortes estão em .Net com C# e Vue.Js. "',
       experienceItems: [
         {
-          title: 'Desenvolvedor .NET Sênior - Amcor',
+          title: 'Desenvolvedor .NET Sênior - Rvezy',
           icon: 'mdi-star',
-          year: '2020 - Presente',
+          year: '2022 - Presente',
+          color: 'primary',
+          description: [
+            '- Desenvolvimento e manutenção de soluções em .Net Core e Nuxt 2 e Nuxt 3',
+            '- Trabalhar em conjunto com os Principal Engineers na refatoração, decisões arquiteturais e consequente implementação ',
+            '- Implementar projetos de integração com terceiros utilizando AWS Functions e Postgress',
+            '- Refatoração e simplificação de código legado'
+          ]
+        },
+        {
+          title: 'Desenvolvedor .NET Sênior - Amcor',
+          icon: 'mdi-account',
+          year: '2020 - 2022',
           color: 'primary',
           description: [
             '- Acompanhamento da mudança de escopo para que o time atue e desenvolva soluções globalmente',
@@ -192,6 +204,12 @@ export default {
         }
       ],
       educationItems: [
+        {
+          title: 'FIAP - Pós Graduação - Arquitetura de Software',
+          icon: 'mdi-memory',
+          year: '2024 - 2025',
+          color: 'primary'
+        },
         {
           title: 'USP/ESALQ - MBA - Gestão de Negócios',
           icon: 'mdi-briefcase',

@@ -46,13 +46,6 @@ export default {
           imgSrc: 'https://tamarindosolucoes.com.br/img/head/hand-holding-a-smartphone-mock-up_1022-1824.png'
         },
         {
-          id: 2,
-          title: 'Yotube Hunter',
-          description: 'Um Pequeno Site de Exercício que Busca Informação de Videos do Youtube',
-          technologies: 'vuejs,github',
-          linkButton: 'https://github.com/ProgramadorDeValor/teste-front-end'
-        },
-        {
           id: 3,
           title: 'TrayIcon App',
           description: 'Um pequeno app em C# usando windows forms que inicializa diretamente como um TrayIcon.',
